@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(38, 102, 185);
+ }
+ #container{
+    background-color: aquamarine  ;
+    color: black;
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 400px;
+    text-align: center;
+    box-shadow: 2px 2px black;
+overflow: auto;
+}
+ 
+ .form{
+    background-color: aquamarine  ;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin-top: 150px;
+    margin-left: 600px;
+    text-align: center;
+    box-shadow: 2px 2px black;
+ }
+ .my_msg{
+    background-color: rgb(130, 180, 209);
+    border-radius: 5px;
+    width: 24%;
+    margin-right: 10px;
+    word-wrap: normal;
+    text-align: left;
+ }
+ .oth_msg{
+    background-color: rgb(218, 218, 56);
+    border-radius: 5px;
+    width: 24%;
+    margin-left: 10px;
+ }
+ .left{
+    float: left;
+    clear: both;
+ }
+ .right{
+    float: right;
+    clear: both;
+ }
+ #msg_form{
+    margin-left: 400px;
+ }
+ #message{
+    width: 300px;
+    background-color: black;
+    color: white;
+ }
+ #logo{
+   margin-left: 650px;
+ }
